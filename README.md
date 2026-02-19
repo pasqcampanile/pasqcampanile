@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=1B5E7B&background=76FF4D00&width=435&lines=Hi%2C+I'm+Pasquale.)](https://git.io/typing-svg)
 <!--
 **pasqcampanile/pasqcampanile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
